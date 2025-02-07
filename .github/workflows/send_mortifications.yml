@@ -1,0 +1,25 @@
+name: Enviar Mortificaciones por WhatsApp
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Ejecutar todos los días a las 6 AM UTC (ajusta según tu zona horaria)
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  send_whatsapp:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar el script
+        run: python send_mortifications.py
