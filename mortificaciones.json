@@ -1,0 +1,117 @@
+{
+    "mortificaciones": [
+      {
+        "categoria": "Pereza",
+        "acciones": [
+          "Levantarse en cuanto suene la alarma sin aplazarla.",
+          "Comenzar el día con una oración de agradecimiento.",
+          "Realizar tareas sin postergarlas.",
+          "Evitar distracciones innecesarias en el trabajo o estudio.",
+          "Servir a otros antes que a uno mismo.",
+          "Hacer ejercicios físicos regularmente.",
+          "Acostarse a una hora prudente sin perder el tiempo en redes sociales.",
+          "No quejarse del esfuerzo necesario para realizar una tarea.",
+          "Orar en la mañana y en la noche.",
+          "Orar el Ángelus.",
+          "Orar el Rosario."
+        ]
+      },
+      {
+        "categoria": "Envidia",
+        "acciones": [
+          "Alegrarse sinceramente por los logros de los demás.",
+          "Elogiar y felicitar a quienes han alcanzado algo bueno.",
+          "No hablar negativamente de alguien solo por celos.",
+          "Evitar comparaciones con los demás.",
+          "Agradecer a Dios por los dones personales sin desear los de otros.",
+          "Ayudar a otros a mejorar sin esperar reconocimiento.",
+          "Evitar actitudes de competencia insana.",
+          "Orar por el bien y éxito de los demás."
+        ]
+      },
+      {
+        "categoria": "Lujuria",
+        "acciones": [
+          "Evitar contenido inapropiado en redes sociales, televisión y entretenimiento.",
+          "Vestir con decoro y modestia.",
+          "Guardar la vista y los pensamientos puros.",
+          "Mantener la disciplina en el uso del internet y tecnología.",
+          "Evitar situaciones que fomenten la tentación.",
+          "Orar y ayunar para fortalecer la voluntad.",
+          "Elegir amistades y ambientes sanos.",
+          "Dedicar tiempo a la oración y la lectura espiritual."
+        ]
+      },
+      {
+        "categoria": "Avaricia",
+        "acciones": [
+          "Hacer donaciones frecuentes a los necesitados.",
+          "No obsesionarse con la acumulación de bienes materiales.",
+          "Evitar gastos innecesarios y lujos excesivos.",
+          "Agradecer a Dios por lo que se tiene en lugar de desear más.",
+          "Compartir con generosidad lo que se posee.",
+          "No aferrarse a cosas materiales.",
+          "Practicar la confianza en la providencia de Dios.",
+          "Ofrecer tiempo y recursos para ayudar a otros sin esperar nada a cambio."
+        ]
+      },
+      {
+        "categoria": "Gula",
+        "acciones": [
+          "Comer con moderación y sin exceso.",
+          "No picar entre comidas sin necesidad.",
+          "Aceptar con gratitud cualquier alimento sin quejas.",
+          "Ayunar o hacer pequeños sacrificios en la comida.",
+          "Servirse porciones razonables sin desperdiciar.",
+          "Evitar la obsesión por comidas y bebidas.",
+          "No buscar caprichos gastronómicos innecesarios.",
+          "Compartir con otros en lugar de acaparar comida.",
+          "Ayunar los viernes.",
+          "No comer carne los martes.",
+          "No endulzar el café o el té.",
+          "No poner sal a la comida.",
+          "No comer el postre favorito.",
+          "Beber solo agua durante todo el día."
+        ]
+      },
+      {
+        "categoria": "Soberbia",
+        "acciones": [
+          "Aceptar críticas y correcciones con humildad.",
+          "No buscar protagonismo ni reconocimiento.",
+          "Reconocer errores sin justificarse.",
+          "Servir a los demás sin esperar elogios.",
+          "Escuchar más y hablar menos.",
+          "No despreciar la opinión de los demás.",
+          "Practicar la obediencia en lo necesario.",
+          "Recordar constantemente que todo talento proviene de Dios."
+        ]
+      },
+      {
+        "categoria": "Ira",
+        "acciones": [
+          "Responder con amabilidad ante provocaciones.",
+          "Controlar la impaciencia en el tráfico o en filas.",
+          "No alzar la voz cuando se esté molesto.",
+          "Respirar y orar antes de reaccionar impulsivamente.",
+          "Evitar discusiones innecesarias.",
+          "Pedir disculpas cuando se ha actuado con ira.",
+          "Ser paciente con las debilidades de los demás.",
+          "Practicar el silencio cuando se sienta enojo."
+        ]
+      },
+      {
+        "categoria": "Acedia",
+        "acciones": [
+          "Rezar con devoción aunque no haya ganas.",
+          "No abandonar los compromisos espirituales por desánimo.",
+          "Ofrecer el cansancio y las dificultades como sacrificio a Dios.",
+          "Mantener una actitud de gratitud en todo momento.",
+          "Rodearse de personas que animen la vida espiritual.",
+          "Leer la Biblia y escritos de santos para encontrar inspiración.",
+          "Pedir ayuda en la oración cuando se sienta desmotivación.",
+          "Evitar pensamientos de desesperanza y rendición."
+        ]
+      }
+    ]
+  }
