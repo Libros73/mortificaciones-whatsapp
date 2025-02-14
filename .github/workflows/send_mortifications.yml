@@ -20,7 +20,7 @@ jobs:
 
       - name: Instalar dependencias
         run: pip install requests
-
+        
       - name: Ejecutar el script
         env:
           WHATSAPP_NUMBER: ${{ secrets.WHATSAPP_NUMBER }}
